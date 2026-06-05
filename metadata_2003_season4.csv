@@ -1,0 +1,14 @@
+Key,Value
+year,2003
+season,4
+season_name,Winter
+unit,mm
+description,Seasonal precipitation (filtered by region)
+time_range,2002-12-01T00:00:00 to 2003-02-28T18:00:00
+source,ERA5
+region.lat_min,33.8
+region.lat_max,35.3
+region.lon_min,47.5
+region.lon_max,49.5
+precipitation_stats.min_precipitation_mm,15.096066519618034
+precipitation_stats.max_precipitation_mm,56.67407810688019
